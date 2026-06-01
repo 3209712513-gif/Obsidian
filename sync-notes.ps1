@@ -8,6 +8,7 @@ git pull origin main 2>&1 | Out-Null
 
 Copy-Item "D:\Obsidian\A_1\*" "$REPO_DIR\A_1\" -Recurse -Force
 Copy-Item "D:\Desktop\科研笔记\*" "$REPO_DIR\科研笔记\" -Recurse -Force
+Copy-Item "D:\Obsidian\A_2编程\*" "$REPO_DIR\A_2编程\" -Recurse -Force
 
 $status = git status --porcelain
 if ($status) {
