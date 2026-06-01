@@ -1,0 +1,15 @@
+# Obsidian workspace cache
+.obsidian/workspace.json
+.obsidian/cache/
+.trash/
+
+# OS files
+Thumbs.db
+.DS_Store
+
+# Temp
+*.tmp
+~$*
+
+# Claude Local REST API - sensitive
+.obsidian/plugins/obsidian-local-rest-api/data.json
