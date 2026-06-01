@@ -1,0 +1,238 @@
+{
+  "main": {
+    "id": "3b15cdc1ceea6baf",
+    "type": "split",
+    "children": [
+      {
+        "id": "f9896590c7810bc1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "638a58843d696f8b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01-课程/大学英语/六级备考/高频词汇.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "高频词汇"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9887604e68668fd2",
+    "type": "split",
+    "children": [
+      {
+        "id": "6a861854e0f87a8a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3045b180f3106aec",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "e0867cabf550c6d2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "d5cb6bae474aacc8",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 313.5
+  },
+  "right": {
+    "id": "ad8ab0944af9f40d",
+    "type": "split",
+    "children": [
+      {
+        "id": "9da14a3a3396e218",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1340d87bf72c3904",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "反向链接"
+            }
+          },
+          {
+            "id": "016e4199f7fc580f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "出链"
+            }
+          },
+          {
+            "id": "6a38af458e1f7a44",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "700d7a3a0c4757cb",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "3c8679a3f8c18e6c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "大纲"
+            }
+          },
+          {
+            "id": "7098ee7c48211e26",
+            "type": "leaf",
+            "state": {
+              "type": "claudian-view",
+              "state": {},
+              "icon": "bot",
+              "title": "Claudian"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:新建数据库": false,
+      "realclaudian:Open Claudian": false,
+      "pdf-plus:PDF++: Toggle auto-copy": false,
+      "pdf-plus:PDF++: Toggle auto-focus": false,
+      "pdf-plus:PDF++: Toggle auto-paste": false
+    }
+  },
+  "active": "638a58843d696f8b",
+  "lastOpenFiles": [
+    "01-课程/大学英语/六级备考/作文模板.md",
+    "01-课程/大学英语/六级备考/解题技巧.md",
+    "01-课程/大学英语/六级备考/高频词汇.md",
+    "01-课程/大学英语/六级备考/高频词汇.md.tmp.25000.d10430c33143",
+    "01-课程/大学英语/六级备考/高频词汇.md.tmp.25000.9201d43495c9",
+    "02-学习计划/2025-2026-第二学期-期末冲刺一个月计划.md",
+    "01-课程/大学英语/六级备考/高频词汇.md.tmp.6360.08d370922e4b",
+    "01-课程/大学英语/六级备考/README.md",
+    "CLAUDE.md.tmp.6360.1a5ec2f55803",
+    "01-课程/大学英语/六级备考",
+    "02-学习计划/2025-2026-第二学期-期末冲刺一个月计划.md.tmp.6360.65995ca481b1",
+    "CLAUDE.md.tmp.6360.76d5bcaa286d",
+    "欢迎.md.tmp.6360.69522dd7efc1",
+    "01-课程/思政类/README.md",
+    "01-课程/思政类/README.md.tmp.6360.54bf01eb6f5b",
+    "01-课程/计算机网络/README.md",
+    "01-课程/操作系统/README.md",
+    "01-课程/数据库原理/README.md",
+    "01-课程/计算机组成原理/README.md",
+    "01-课程/数字逻辑/README.md",
+    "01-课程/数字逻辑/README.md.tmp.6360.3fd117748d09",
+    "01-课程/概率论与数理统计/README.md",
+    "01-课程/大学英语/README.md",
+    "01-课程/面向对象程序设计-C++/README.md",
+    "01-课程/数据结构/README.md",
+    "01-课程/离散数学/README.md",
+    "01-课程/大学物理/README.md",
+    "01-课程/程序设计基础-C语言/README.md",
+    "01-课程/线性代数/README.md",
+    "01-课程/高等数学A/README.md",
+    "04-学习资源/README.md",
+    "03-复习备考/README.md",
+    "02-学习计划/README.md",
+    "01-课程/README.md",
+    "99-模板/复习提纲模板.md",
+    "未命名 1.canvas",
+    "未命名 2.canvas",
+    "未命名.canvas"
+  ]
+}

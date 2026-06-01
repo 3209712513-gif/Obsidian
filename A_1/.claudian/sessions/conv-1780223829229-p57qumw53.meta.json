@@ -1,0 +1,23 @@
+{
+  "id": "conv-1780223829229-p57qumw53",
+  "providerId": "claude",
+  "title": "打开d盘的科研笔记文件夹",
+  "titleGenerationStatus": "failed",
+  "createdAt": 1780223829234,
+  "updatedAt": 1780289432597,
+  "lastResponseAt": 1780289432597,
+  "sessionId": "54003ed3-800a-4019-9eca-dbdafca84ef4",
+  "providerState": {
+    "providerSessionId": "54003ed3-800a-4019-9eca-dbdafca84ef4"
+  },
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 137,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 106496,
+    "contextWindow": 200000,
+    "contextTokens": 106633,
+    "percentage": 53,
+    "contextWindowIsAuthoritative": true
+  }
+}
